@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Registeration</string>
+    <string name="user">Username: </string>
+    <string name="userhint">Please Enter Username: </string>
+    <string name="pass">Password: </string>
+    <string name="passhint">Please Enter Password: </string>
+    <string name="email">Email: </string>
+    <string name="emailhint">Please Enter Email: </string>
+</resources>
